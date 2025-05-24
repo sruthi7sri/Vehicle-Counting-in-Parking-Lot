@@ -1,25 +1,25 @@
-# 🚗 Vehicle Counting in Parking Lot
+# Vehicle Counting in Parking Lot
 
 This project implements a real-time vehicle counting system using deep learning and computer vision techniques. It automatically identifies vacant and occupied parking slots from video feeds using a Convolutional Neural Network (CNN).
 
-## 📌 Project Overview
+## Project Overview
 
 Urban parking management is challenging due to limited space and high traffic. This system helps monitor parking lot occupancy in real-time, aiding in efficient space utilization and traffic management.
 
-## 🧠 Approach
+## Approach
 
 - **Data Collection**: Images of parking lots were collected and labeled to indicate occupied and vacant slots.
 - **Model Training**: A CNN was trained on the labeled dataset to classify parking slots.
 - **Real-Time Detection**: The trained model processes video feeds to detect and count vehicles in each parking slot.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - OpenCV
 - TensorFlow/Keras
 - NumPy
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
