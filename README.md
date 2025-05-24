@@ -6,6 +6,11 @@ This project implements a real-time vehicle counting system using deep learning 
 
 Urban parking management is challenging due to limited space and high traffic. This system helps monitor parking lot occupancy in real-time, aiding in efficient space utilization and traffic management.
 
+## Demo
+
+You can download and watch the demo video here:
+[demo.mp4](./demo.mp4)
+
 ## Approach
 
 - **Data Collection**: Images of parking lots were collected and labeled to indicate occupied and vacant slots.
