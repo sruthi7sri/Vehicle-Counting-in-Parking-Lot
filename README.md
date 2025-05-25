@@ -9,7 +9,7 @@ Urban parking management is challenging due to limited space and high traffic. T
 ## Demo
 
 You can download and watch the demo video here:
-[demo.mp4](./demo.mp4)
+[Watch the video](https://youtu.be/8sRWZXne7ug)
 
 ## Approach
 
