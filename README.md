@@ -63,5 +63,12 @@ You can download and watch the demo video here:
 - Improve Resource Utilization: Provide real-time feedback on parking slot availability to reduce time spent searching for parking.
 - Build a Scalable Framework: Develop a reusable and scalable system adaptable to various parking lot layouts and camera feeds.
 
-## License
-© 2025 Sruthisri. All rights reserved.
+## Collaborators
+
+- Sruthisri Venkateswaran  
+- Saroja Vuluvabeeti
+- Sri Sakthi
+
+© 2025 Sruthisri Venkateswaran, Saroja Vuluvabeeti and Sri Sakthi. All rights reserved.
+
+
